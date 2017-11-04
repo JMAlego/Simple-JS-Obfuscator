@@ -1,0 +1,16 @@
+{
+  "name": "obfuscator",
+  "version": "0.1.0",
+  "description": "A simple JS obfuscator",
+  "main": "obfuscator.js",
+  "scripts": {},
+  "author": "Jacob Allen",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:JMAlego/Simple-JS-Obfuscator.git"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
